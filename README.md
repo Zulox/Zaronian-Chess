@@ -34,13 +34,13 @@ After 3 turns, a Plus will turn into a Triangle, a Triangle will turn into a Che
 
 4)In the file explorer, navigate to downloaded project folder
 
-5)Click the "COFFEE" icon marked 'TANKS'
+5)Click the "COFFEE" icon marked 'Zaronian'
 
-6)Navigate thru the folder inside netbean, and double click 'TBoard.java'
+6)Navigate thru the folder inside netbean, and double click 'ZBoard.java'
 
-  TANKS -> Source Packages -> Tanks -> TBoard.java
+  Zaronian -> Source Packages -> Zaronian -> ZBoard.java
   
-7) Right Click  "TBoard.java"
+7) Right Click  "ZBoard.java"
 
 8) Choose 'Run File'  (Shift+ F6) 
   
