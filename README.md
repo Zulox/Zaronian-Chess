@@ -1,7 +1,18 @@
 #Zaronian Chess
 This is a game of chess, however this is not like the traditional chess we all familiar with.
 
-it is a chess with a twist included	
+basically it is a chess game with a twist.
+
+### Demo
+**[Game Image 1]**             |  **[Game Image 2]**
+:-------------------------:|:-------------------------:
+![Option](http://i.imgur.com/Ezh6gd8.png)  |  ![Game](http://i.imgur.com/HexU7M5.png)
+
+#Code Location
+Important code location are at :
+
+src->Zaronian
+
 
 
 #How To Play
@@ -24,7 +35,7 @@ After 3 turns, a Plus will turn into a Triangle, a Triangle will turn into a Che
 
 
 ##HOW TO RUN
-#WARNING YOU NEED NETBEAN IN RODER TO RUN THE PROJECT
+#WARNING YOU NEED NETBEAN IN ORDER TO RUN THE PROJECT
 
 1)Download the whole project file
 
