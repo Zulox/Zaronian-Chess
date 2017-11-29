@@ -35,6 +35,19 @@ After 3 turns, a Plus will turn into a Triangle, a Triangle will turn into a Che
 
 
 ##HOW TO RUN
+1)You need JAVA JRE min 1.6
+
+2)Download and Extract the Sample.zip
+
+3)Navigate to the extracted folder (Sample/dist)
+
+4) Run the GUIFormExamples.jar   (Double click OR run "java -jar GUIFormExamples.jar" in the command prompt)
+
+
+
+
+
+##EDITING
 #WARNING YOU NEED NETBEAN IN ORDER TO RUN THE PROJECT
 
 1)Download the whole project file
