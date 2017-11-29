@@ -34,39 +34,39 @@ After 3 turns, a Plus will turn into a Triangle, a Triangle will turn into a Che
 
 
 
-##HOW TO RUN
-1)You need JAVA JRE min 1.6
+### HOW TO RUN
+1. You need JAVA JRE min 1.6
 
-2)Download and Extract the Sample.zip
+2. Download and Extract the Sample.zip
 
-3)Navigate to the extracted folder (Sample/dist)
+3. Navigate to the extracted folder (Sample/dist)
 
-4) Run the GUIFormExamples.jar   (Double click OR run "java -jar GUIFormExamples.jar" in the command prompt)
-
-
+4. Run the GUIFormExamples.jar   (Double click OR run "java -jar GUIFormExamples.jar" in the command prompt)
 
 
 
-##EDITING
+
+
+### EDITING
 #WARNING YOU NEED NETBEAN IN ORDER TO RUN THE PROJECT
 
-1)Download the whole project file
+1. Download the whole project file
 
-2)Open Netbean
+2. Open Netbean
 
-3)Navigate to FILE->OPEN PROJECT ...    (CTRL+SHIFT+O) 
+3. Navigate to FILE->OPEN PROJECT ...    (CTRL+SHIFT+O) 
 
-4)In the file explorer, navigate to downloaded project folder
+4. In the file explorer, navigate to downloaded project folder
 
-5)Click the "COFFEE" icon marked 'Zaronian'
+5. Click the "COFFEE" icon marked 'Zaronian'
 
-6)Navigate thru the folder inside netbean, and double click 'ZBoard.java'
+6. Navigate thru the folder inside netbean, and double click 'ZBoard.java'
 
-  Zaronian -> Source Packages -> Zaronian -> ZBoard.java
+  **Zaronian -> Source Packages -> Zaronian -> ZBoard.java**
   
-7) Right Click  "ZBoard.java"
+7. Right Click  "ZBoard.java"
 
-8) Choose 'Run File'  (Shift+ F6) 
+8. Choose 'Run File'  (Shift+ F6) 
   
   
 
